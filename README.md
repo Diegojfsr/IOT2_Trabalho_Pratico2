@@ -68,6 +68,12 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 <li><a href="https://www.youtube.com/watch?v=0TIzjE40eZo"> Introdução ao problema de dados faltantes | Imputação de dados | Data Science </a></li>
 <li><a href="https://www.youtube.com/watch?v=kg-9-2SurlM"> MISSING DATA - CORRIGINDO VALORES FALTANTES </a></li>
 <li><a href="https://www.youtube.com/watch?v=oyNkmkAWvyM"> MISSING VALUES - TRATANDO VALORES FALTANTES </a></li>
+<li><a href="https://www.youtube.com/watch?v=veXy4WmOE1Q"> Download de Dados da Web e APIs com Excel - Aula 5 </a></li>
+<li><a href="https://www.youtube.com/watch?v=Rm1yjmj3yYc"> Consumindo API CLIMATEMPO com Python </a></li>
+<li><a href="https://www.youtube.com/watch?v=olDCJ1w3FLM"> Consumindo dados da API do YOUTUBE com Python | Python na Prática #11 </a></li>
+<li><a href="https://www.youtube.com/watch?v=lc0VOosnlAc"> Aprenda a Usar APIs // Mão no Código #7 </a></li>
+<li><a href="https://www.youtube.com/watch?v=vGuqKIRWosk"> API // Dicionário do Programador </a></li>
+<li><a href="https://www.youtube.com/watch?v=f7JWDLFhR_c"> Como Fazer Uma API (o jeito mais fácil e moderno que eu já vi) </a></li>
 </ul>
 
 
