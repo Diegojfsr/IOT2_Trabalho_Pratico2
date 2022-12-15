@@ -58,6 +58,7 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
   <li><a href="https://dev.meteostat.net/"> Meteostat Developers </a></li>
   <li><a href="https://www.youtube.com/watch?v=rE6Q6eQDsO8"> Descrição de Atividade Prática </a></li>
   <li><a href="https://www.geeksforgeeks.org/how-to-read-a-json-response-from-a-link-in-python/"> Como ler uma resposta JSON de um link em Python? </a></li>
+ <li><a href="http://3.145.163.55:5000/dados/1/12/2020/2020"> Link API </a></li>
 
 </ul>
 
