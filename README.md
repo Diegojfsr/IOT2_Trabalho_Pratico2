@@ -55,20 +55,15 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://europe-west1-1.gcp.cloud2.influxdata.com/orgs/d98a9271c06985a3/load-data/sources"> Influx Cloud</a></li>
-  <li><a href="https://medium.com/@rodrigosiviero/usando-influxdb-para-coletar-dados-do-jenkins-1ee0d9148fc1"> Usando InfluxDB para coletar dados do Jenkins</a></li>
-  <li><a href="https://dganais.medium.com/getting-started-writing-data-to-influxdb-54ce99fdeb3e"> Primeiros passos: gravando dados no InfluxDB</a></li>
+  <li><a href="https://dev.meteostat.net/"> Meteostat Developers </a></li>
+  <li><a href="https://www.youtube.com/watch?v=rE6Q6eQDsO8"> Descrição de Atividade Prática </a></li>
+  <li><a href="https://www.geeksforgeeks.org/how-to-read-a-json-response-from-a-link-in-python/"> Como ler uma resposta JSON de um link em Python? </a></li>
 
 </ul>
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
 <li><a href="https://www.youtube.com/watch?v=wPKZ9i0DulQ"> Como escrever um CSV anotado com Flux para InfluxDB </a></li>
-<li><a href="https://www.youtube.com/watch?v=O0i2N4VMcR4"> Assistente de casa: InfluxDB | importação manual de arquivo CSV </a></li>
-<li><a href="https://www.youtube.com/watch?v=qFS2zANwIrc&t=96s"> Como adicionar dados ao InfluxDB Cloud com Telegraf em 5 etapas </a></li>
-<li><a href="https://www.youtube.com/watch?v=3nB8T7Coqcg"> TRABALHANDO COM CSV EM SHELL </a></li>
-<li><a href="https://www.youtube.com/watch?v=9u0mYW06mOg"> Lendo Arquivos CSV </a></li>
-
 </ul>
 
 
