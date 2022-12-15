@@ -55,10 +55,14 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://dev.meteostat.net/"> Meteostat Developers </a></li>
-  <li><a href="https://www.youtube.com/watch?v=rE6Q6eQDsO8"> Descrição de Atividade Prática </a></li>
-  <li><a href="https://www.geeksforgeeks.org/how-to-read-a-json-response-from-a-link-in-python/"> Como ler uma resposta JSON de um link em Python? </a></li>
+ <li><a href="https://dev.meteostat.net/"> Meteostat Developers </a></li>
+ <li><a href="https://www.youtube.com/watch?v=rE6Q6eQDsO8"> Descrição de Atividade Prática </a></li>
+ <li><a href="https://www.geeksforgeeks.org/how-to-read-a-json-response-from-a-link-in-python/"> Como ler uma resposta JSON de um link em Python? </a></li>
  <li><a href="http://3.145.163.55:5000/dados/1/12/2020/2020"> Link API </a></li>
+ <li><a href="https://github.com/letsdata/arquivo-json-em-python/blob/main/arquivo-json-em-python.ipynb"> Live Let's Data #014 - Arquivos JSON em Python </a></li>
+ <li><a href="https://github.com/eliasberra/API_IBGE/blob/main/Graficos_IBGE.ipynb"> Gráficos com dados API IBGE </a></li>
+ 
+ 
 
 </ul>
 
@@ -76,6 +80,7 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 <li><a href="https://www.youtube.com/watch?v=vGuqKIRWosk"> API // Dicionário do Programador </a></li>
 <li><a href="https://www.youtube.com/watch?v=f7JWDLFhR_c"> Como Fazer Uma API (o jeito mais fácil e moderno que eu já vi) </a></li>
 <li><a href="https://www.youtube.com/watch?v=jLybl-9vqZo"> Arquivos JSON em Python </a></li>
+<li><a href="https://www.youtube.com/watch?v=IvLRjLWQm8I"> Gráficos com dados API IBGE, usando python e Google Colab </a></li>
 </ul>
 
 
