@@ -74,6 +74,7 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 <li><a href="https://www.youtube.com/watch?v=lc0VOosnlAc"> Aprenda a Usar APIs // Mão no Código #7 </a></li>
 <li><a href="https://www.youtube.com/watch?v=vGuqKIRWosk"> API // Dicionário do Programador </a></li>
 <li><a href="https://www.youtube.com/watch?v=f7JWDLFhR_c"> Como Fazer Uma API (o jeito mais fácil e moderno que eu já vi) </a></li>
+<li><a href="https://www.youtube.com/watch?v=jLybl-9vqZo"> Arquivos JSON em Python </a></li>
 </ul>
 
 
