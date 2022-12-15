@@ -65,7 +65,9 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 <ul dir="auto">
 <li><a href="https://www.youtube.com/watch?v=Ga2p5hbNtyk"> JSON em PYTHON - Curso de Python #36 </a></li>
 <li><a href="https://www.youtube.com/watch?v=-e7Jh2Cy3Os"> JSON em Python (JavaScript Object Notation) - O que é JSON e para que Serve? </a></li>
- <li><a href="https://www.youtube.com/watch?v=0TIzjE40eZo"> Introdução ao problema de dados faltantes | Imputação de dados | Data Science </a></li>
+<li><a href="https://www.youtube.com/watch?v=0TIzjE40eZo"> Introdução ao problema de dados faltantes | Imputação de dados | Data Science </a></li>
+<li><a href="https://www.youtube.com/watch?v=kg-9-2SurlM"> MISSING DATA - CORRIGINDO VALORES FALTANTES </a></li>
+<li><a href="https://www.youtube.com/watch?v=oyNkmkAWvyM"> MISSING VALUES - TRATANDO VALORES FALTANTES </a></li>
 </ul>
 
 
